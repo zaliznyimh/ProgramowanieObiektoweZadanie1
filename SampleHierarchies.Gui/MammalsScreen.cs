@@ -1,5 +1,6 @@
 ﻿using SampleHierarchies.Enums;
 using SampleHierarchies.Interfaces.Services;
+using SampleHierarchies.Services;
 
 namespace SampleHierarchies.Gui;
 
@@ -10,39 +11,54 @@ public sealed class MammalsScreen : Screen
 {
     #region Properties And Ctor
 
+    private ISettingsService? _settingsService;
+
     /// <summary>
     /// Animals screen.
     /// </summary>
-    private DogsScreen _dogsScreen;
+    private readonly DogsScreen _dogsScreen;
+    private readonly WolfsScreen _wolfsScreen;  
+    private readonly DolphinsScreen _dolphinsScreen;
+    private readonly BengalTigerScreen _bengalTigerScreen;
 
     /// <summary>
     /// Ctor.
     /// </summary>
     /// <param name="dataService">Data service reference</param>
     /// <param name="dogsScreen">Dogs screen</param>
-    public MammalsScreen(DogsScreen dogsScreen)
+    /// <param name="wolfsScreen">Gray wolfs screen</param>>
+    public MammalsScreen(DogsScreen dogsScreen, WolfsScreen wolfsScreen, DolphinsScreen dolphinsScreen, BengalTigerScreen bengalTigerScreen)
     {
         _dogsScreen = dogsScreen;
+        _wolfsScreen = wolfsScreen;
+        _dolphinsScreen = dolphinsScreen;
+        _bengalTigerScreen = bengalTigerScreen;
     }
 
     #endregion Properties And Ctor
 
     #region Public Methods
 
-    /// <inheritdoc/>
     public override void Show()
     {
         while (true)
         {
+            InitialisingColor();
+            
             Console.WriteLine();
             Console.WriteLine("Your available choices are:");
             Console.WriteLine("0. Exit");
             Console.WriteLine("1. Dogs");
+            Console.WriteLine("2. Wolves(Wolfs)");
+            Console.WriteLine("3. Dolphins");
+            Console.WriteLine("4. Bengal Tiger");
             Console.Write("Please enter your choice: ");
 
             string? choiceAsString = Console.ReadLine();
 
-            // Validate choice
+            /// <summary>
+            /// Selection of animal screens
+            /// </summary>
             try
             {
                 if (choiceAsString is null)
@@ -55,6 +71,18 @@ public sealed class MammalsScreen : Screen
                 {
                     case MammalsScreenChoices.Dogs:
                         _dogsScreen.Show();
+                        break;
+
+                    case MammalsScreenChoices.Wolf:
+                        _wolfsScreen.Show(); 
+                        break;
+                    
+                    case MammalsScreenChoices.Dolphin:
+                        _dolphinsScreen.Show();
+                        break;
+
+                    case MammalsScreenChoices.BengalTiger:
+                        _bengalTigerScreen.Show();
                         break;
 
                     case MammalsScreenChoices.Exit:
@@ -70,4 +98,15 @@ public sealed class MammalsScreen : Screen
     }
 
     #endregion // Public Methods
+
+    #region Private methods
+
+    private void InitialisingColor()
+    {
+        _settingsService = new SettingsService();
+        _settingsService.ColorOfScreen = _settingsService.ReadNameOfColor("MammalsScreen", "White");
+        Console.ForegroundColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), _settingsService.ColorOfScreen);
+    }
+
+    #endregion // Private methods
 }

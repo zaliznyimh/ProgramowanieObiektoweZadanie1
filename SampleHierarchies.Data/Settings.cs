@@ -11,18 +11,18 @@ namespace SampleHierarchies.Data
     {
 
         private string _version;
-        private string _color; 
-
+        private ConsoleColor _consoleColor;
+        
+        /// <summary>
+        /// Ctor.
+        /// </summary>
         public Settings()
         {
             _version = "1.0";
+            _consoleColor = ConsoleColor.White;
         }
         
         public string Version { get => _version; set => _version = value; }
-
-        public void SetConsoleColor(string color)
-        {
-            _color = color;
-        }
+        public ConsoleColor ConsoleColor { get => _consoleColor; set => _consoleColor = value; }
     }
 }

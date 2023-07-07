@@ -1,0 +1,28 @@
+{
+	"Mammals":	{
+		"Dogs":	[
+			
+		],
+		"Wolves":	[
+			{
+				"IsPackHunting":	false,
+				"PackHunting":	"Wolf doesn't hunt in group.",
+				"IsCommunicating":	true,
+				"Communication":	"Used to locate other pack members and establish territory",
+				"Diet":	"Eats small rodents and birds",
+				"IsStrongPaws":	true,
+				"StrongPaws":	"Strong paws help the wolf to get better food and fight for territory",
+				"SenceOfSmell":	"Can detect prey from a distance of over 1.5 kilometers",
+				"Species":	2,
+				"Name":	"Fido",
+				"Age":	5
+			}
+		],
+		"Dolphins":	[
+			
+		],
+		"BengalTigers":	[
+			
+		]
+	}
+}

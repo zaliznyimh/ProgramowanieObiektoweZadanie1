@@ -1,0 +1,305 @@
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+D:\Леслав Стругачик ООП\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+D:\Programowanie Obiektowe\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+D:\Programowanie Obiektowe Gotowe Zadania\Zadanie 1\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll

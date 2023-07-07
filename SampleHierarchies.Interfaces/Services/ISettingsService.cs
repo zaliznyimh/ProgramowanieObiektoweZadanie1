@@ -20,5 +20,20 @@ public interface ISettingsService
     /// <param name="jsonPath">Json path</param>
     void Write(ISettings settings, string jsonPath);
 
+    /// <summary>
+    /// Property to save the the value of text color
+    /// </summary>
+    public string? ColorOfScreen { get; set; }
+
+    /// <summary>
+    /// Method to read the value of color for each screen
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <param name="screenName"></param>
+    /// <param name="defaultColor"></param>
+    /// <returns></returns>
+    T ReadNameOfColor<T>(string screenName, T defaultColor);
+
     #endregion // Interface Members
+    
 }

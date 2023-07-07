@@ -1,6 +1,7 @@
 ﻿using SampleHierarchies.Data.Mammals;
 using SampleHierarchies.Enums;
 using SampleHierarchies.Interfaces.Services;
+using SampleHierarchies.Services;
 
 namespace SampleHierarchies.Gui;
 
@@ -14,18 +15,21 @@ public sealed class DogsScreen : Screen
     /// <summary>
     /// Data service.
     /// </summary>
-    private IDataService _dataService;
+    private readonly IDataService _dataService;
+    private readonly ISettingsService _settingsService;
 
     /// <summary>
     /// Ctor.
     /// </summary>
     /// <param name="dataService">Data service reference</param>
-    public DogsScreen(IDataService dataService)
+    public DogsScreen(IDataService dataService,
+                      ISettingsService settingsService)
     {
         _dataService = dataService;
+        _settingsService = settingsService;
     }
 
-    #endregion Properties And Ctor
+    #endregion // Properties And Ctor
 
     #region Public Methods
 
@@ -34,6 +38,8 @@ public sealed class DogsScreen : Screen
     {
         while (true)
         {
+            InitialisingColor();
+
             Console.WriteLine();
             Console.WriteLine("Your available choices are:");
             Console.WriteLine("0. Exit");
@@ -61,9 +67,10 @@ public sealed class DogsScreen : Screen
                         break;
 
                     case DogsScreenChoices.Create:
-                        AddDog(); break;
+                        AddDog();
+                        break;
 
-                    case DogsScreenChoices.Delete: 
+                    case DogsScreenChoices.Delete:
                         DeleteDog();
                         break;
 
@@ -88,6 +95,15 @@ public sealed class DogsScreen : Screen
     #region Private Methods
 
     /// <summary>
+    /// Method which initialise color of dogs screen.
+    /// </summary>
+    private void InitialisingColor()
+    {
+        _settingsService.ColorOfScreen = _settingsService.ReadNameOfColor("DogsScreen", "White");
+        Console.ForegroundColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), _settingsService.ColorOfScreen);
+    }
+
+    /// <summary>
     /// List all dogs.
     /// </summary>
     private void ListDogs()
@@ -98,7 +114,7 @@ public sealed class DogsScreen : Screen
         {
             Console.WriteLine("Here's a list of dogs:");
             int i = 1;
-            foreach (Dog dog in _dataService.Animals.Mammals.Dogs)
+            foreach (Dog dog in _dataService.Animals.Mammals.Dogs.Cast<Dog>())
             {
                 Console.Write($"Dog number {i}, ");
                 dog.Display();
@@ -120,7 +136,7 @@ public sealed class DogsScreen : Screen
         {
             Dog dog = AddEditDog();
             _dataService?.Animals?.Mammals?.Dogs?.Add(dog);
-            Console.WriteLine("Dog with name: {0} has been added to a list of dogs", dog.Name);
+            Console.WriteLine($"Dog with name: {dog.Name} has been added to a list of dogs");
         }
         catch
         {
@@ -142,11 +158,11 @@ public sealed class DogsScreen : Screen
                 throw new ArgumentNullException(nameof(name));
             }
             Dog? dog = (Dog?)(_dataService?.Animals?.Mammals?.Dogs
-                ?.FirstOrDefault(d => d is not null && string.Equals(d.Name, name)));
+                       ?.FirstOrDefault(d => d is not null && string.Equals(d.Name, name)));
             if (dog is not null)
             {
                 _dataService?.Animals?.Mammals?.Dogs?.Remove(dog);
-                Console.WriteLine("Dog with name: {0} has been deleted from a list of dogs", dog.Name);
+                Console.WriteLine($"Dog with name: {dog.Name} has been deleted from a list of dogs");
             }
             else
             {
@@ -166,19 +182,20 @@ public sealed class DogsScreen : Screen
     {
         try
         {
-            Console.Write("What is the name of the dog you want to edit? ");
+            Console.WriteLine("What is the name of the dog you want to edit?");
+            Console.Write("Please, enter it's name: ");
             string? name = Console.ReadLine();
             if (name is null)
             {
                 throw new ArgumentNullException(nameof(name));
             }
             Dog? dog = (Dog?)(_dataService?.Animals?.Mammals?.Dogs
-                ?.FirstOrDefault(d => d is not null && string.Equals(d.Name, name)));
+                       ?.FirstOrDefault(d => d is not null && string.Equals(d.Name, name)));
             if (dog is not null)
             {
                 Dog dogEdited = AddEditDog();
                 dog.Copy(dogEdited);
-                Console.Write("Dog after edit:");
+                Console.Write("Dog after edit: ");
                 dog.Display();
             }
             else
@@ -193,10 +210,10 @@ public sealed class DogsScreen : Screen
     }
 
     /// <summary>
-    /// Adds/edit specific dog.
+    /// Add/edit specific dog.
     /// </summary>
     /// <exception cref="ArgumentNullException"></exception>
-    private Dog AddEditDog()
+    private static Dog AddEditDog()
     {
         Console.Write("What name of the dog? ");
         string? name = Console.ReadLine();
@@ -205,18 +222,10 @@ public sealed class DogsScreen : Screen
         Console.Write("What is the dog's breed? ");
         string? breed = Console.ReadLine();
 
-        if (name is null)
-        {
-            throw new ArgumentNullException(nameof(name));
-        }
-        if (ageAsString is null)
-        {
-            throw new ArgumentNullException(nameof(ageAsString));
-        }
-        if (breed is null)
-        {
-            throw new ArgumentNullException(nameof(breed));
-        }
+        if (name is null) { throw new ArgumentNullException(nameof(name)); }
+        if (ageAsString is null) { throw new ArgumentNullException(nameof(ageAsString)); }
+        if (breed is null) { throw new ArgumentNullException(nameof(breed)); }
+
         int age = Int32.Parse(ageAsString);
         Dog dog = new Dog(name, age, breed);
 

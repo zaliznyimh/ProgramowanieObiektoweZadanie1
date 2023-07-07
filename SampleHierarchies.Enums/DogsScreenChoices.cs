@@ -9,5 +9,5 @@ public enum DogsScreenChoices
     List = 1,
     Create = 2,
     Delete = 3,
-    Modify = 4,
+    Modify = 4
 }

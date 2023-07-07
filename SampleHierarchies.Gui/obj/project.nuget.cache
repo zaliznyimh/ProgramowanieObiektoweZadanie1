@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NNLlPp3WDLcnBfNhXbm9MuoglW8OEaSoYno07h6NQbowv6AAZ3l0Lxk2YyBoB/PiNx4kIz+9PmmQhc8FK8YnQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramowanieObiektoweGotoweZadania\\ProgramowanieObiektoweZadanie1\\SampleHierarchies.Gui\\SampleHierarchies.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

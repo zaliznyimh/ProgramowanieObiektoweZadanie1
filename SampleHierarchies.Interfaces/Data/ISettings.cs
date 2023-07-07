@@ -13,7 +13,9 @@ public interface ISettings
     
     string Version { get; set; }
 
-    void SetConsoleColor(string color);
+    ConsoleColor ConsoleColor { get; set; }
+    
+
     #endregion // Interface Members
 }
 

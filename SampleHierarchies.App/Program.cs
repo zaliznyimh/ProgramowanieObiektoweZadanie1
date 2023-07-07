@@ -1,8 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using PeanutButter.TinyEventAggregator;
+using SampleHierarchies.Data;
 using SampleHierarchies.Gui;
+using SampleHierarchies.Interfaces.Data;
 using SampleHierarchies.Interfaces.Services;
 using SampleHierarchies.Services;
 
@@ -16,7 +19,7 @@ internal static class Program
     #region Main Method
 
     /// <summary>
-    ///  The main entry point for the application.
+    /// The main entry point for the application.
     /// </summary>
     /// <param name="args">Arguments</param>
     [STAThread]
@@ -41,11 +44,11 @@ internal static class Program
     /// <summary>
     /// Creates a host builder.
     /// </summary>
-    /// <returns></returns>
+    /// <returns> </returns>
     static IHostBuilder CreateHostBuilder()
     {
         return Host.CreateDefaultBuilder()
-            .ConfigureServices((context, services) => 
+            .ConfigureServices((context, services) =>
             {
                 services.AddSingleton<ISettingsService, SettingsService>();
                 services.AddSingleton<IEventAggregator, EventAggregator>();
@@ -54,6 +57,10 @@ internal static class Program
                 services.AddSingleton<DogsScreen, DogsScreen>();
                 services.AddSingleton<AnimalsScreen, AnimalsScreen>();
                 services.AddSingleton<MammalsScreen, MammalsScreen>();
+                services.AddSingleton<Settings, Settings>();
+                services.AddSingleton<WolfsScreen, WolfsScreen>();
+                services.AddSingleton<DolphinsScreen, DolphinsScreen>();
+                services.AddSingleton<BengalTigerScreen, BengalTigerScreen>();
             });
     }
 

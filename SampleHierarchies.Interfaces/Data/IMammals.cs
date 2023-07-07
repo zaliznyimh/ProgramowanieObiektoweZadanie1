@@ -13,6 +13,21 @@ public interface IMammals
     /// Dogs collection.
     /// </summary>
     List<IDog> Dogs { get; set; }
+    
+    /// <summary>
+    /// Wolfs collection
+    /// </summary>
+    List<IWolf> Wolves { get; set; }
+
+    /// <summary>
+    /// Dolphins collection
+    /// </summary>
+    List<IDolphin> Dolphins { get; set; }    
+
+    /// <summary>
+    /// Bengal tigers colection
+    /// </summary>
+    List<IBengalTiger> BengalTigers { get; set; }
 
     #endregion // Interface Members
 }

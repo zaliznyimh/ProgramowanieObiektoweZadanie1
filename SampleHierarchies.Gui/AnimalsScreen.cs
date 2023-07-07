@@ -1,5 +1,6 @@
 ﻿using SampleHierarchies.Enums;
 using SampleHierarchies.Interfaces.Services;
+using SampleHierarchies.Services;
 
 namespace SampleHierarchies.Gui;
 
@@ -12,25 +13,25 @@ public sealed class AnimalsScreen : Screen
 
     /// <summary>
     /// Data service.
+    /// Settings service.
     /// </summary>
-    private IDataService _dataService;
-
+    private readonly IDataService _dataService;
+    private readonly ISettingsService _settingsService;
+    
     /// <summary>
     /// Animals screen.
     /// </summary>
-    private MammalsScreen _mammalsScreen;
+    private readonly MammalsScreen _mammalsScreen;
 
-    /// <summary>
-    /// Ctor.
-    /// </summary>
-    /// <param name="dataService">Data service reference</param>
-    /// <param name="animalsScreen">Animals screen</param>
+
     public AnimalsScreen(
         IDataService dataService,
-        MammalsScreen mammalsScreen)
+        MammalsScreen mammalsScreen,
+        ISettingsService settingsService)
     {
         _dataService = dataService;
         _mammalsScreen = mammalsScreen;
+        _settingsService = settingsService;
     }
 
     #endregion Properties And Ctor
@@ -42,6 +43,8 @@ public sealed class AnimalsScreen : Screen
     {
         while (true)
         {
+            InitialisingColor();
+
             Console.WriteLine();
             Console.WriteLine("Your available choices are:");
             Console.WriteLine("0. Exit");
@@ -92,6 +95,16 @@ public sealed class AnimalsScreen : Screen
     #region Private Methods
 
     /// <summary>
+    /// Method which read color properties from JSON file 
+    /// </summary>
+    private void InitialisingColor()
+    {
+        _settingsService.ColorOfScreen = _settingsService.ReadNameOfColor("AnimalsScreen", "White");
+        Console.ForegroundColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), _settingsService.ColorOfScreen);
+    }
+
+
+    /// <summary>
     /// Save to file.
     /// </summary>
     private void SaveToFile()
@@ -126,12 +139,12 @@ public sealed class AnimalsScreen : Screen
             {
                 throw new ArgumentNullException(nameof(fileName));
             }
-            _dataService.Write(fileName);
+            _dataService.Read(fileName);
             Console.WriteLine("Data reading from: '{0}' was successful.", fileName);
         }
         catch
         {
-            Console.WriteLine("Data reading from was not successful.");
+            Console.WriteLine($"Data reading from was  not successful.");
         }
     }
 

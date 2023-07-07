@@ -3,6 +3,7 @@ using SampleHierarchies.Data;
 using SampleHierarchies.Interfaces.Data;
 using SampleHierarchies.Interfaces.Services;
 using System.Diagnostics;
+using System.Xml;
 
 namespace SampleHierarchies.Services;
 
@@ -11,10 +12,22 @@ namespace SampleHierarchies.Services;
 /// </summary>
 public class DataService : IDataService
 {
-    #region IDataService Implementation
+    #region Ctor
+
+    /// <summary>
+    /// Ctor.
+    /// </summary>
+    public DataService()
+    {
+        Animals = new Animals();
+    }
 
     /// <inheritdoc/>
     public IAnimals? Animals { get; set; }
+
+    #endregion // Ctor
+
+    #region IDataService Implementation
 
     /// <inheritdoc/>
     public bool Read(string jsonPath)
@@ -66,15 +79,4 @@ public class DataService : IDataService
 
     #endregion // IDataService Implementation
 
-    #region Ctors
-
-    /// <summary>
-    /// Default ctor.
-    /// </summary>
-    public DataService()
-    {
-        Animals = new Animals();
-    }
-
-    #endregion // Ctors
 }
