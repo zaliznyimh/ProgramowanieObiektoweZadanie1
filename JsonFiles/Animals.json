@@ -1,0 +1,52 @@
+{
+  "Mammals": {
+    "Dogs": [
+
+    ],
+    "Wolves": [
+      {
+        "IsPackHunting": false,
+        "PackHunting": "Wolf doesn't hunt in group.",
+        "IsCommunicating": true,
+        "Communication": "Used to locate other pack members and establish territory",
+        "Diet": "Eats small rodents and birds",
+        "IsStrongPaws": true,
+        "StrongPaws": "Strong paws help the wolf to get better food and fight for territory",
+        "SenceOfSmell": "Can detect prey from a distance of over 1.5 kilometers",
+        "Species": 2,
+        "Name": "Fido",
+        "Age": 5
+      }
+    ],
+    "Dolphins": [
+      {
+        "UseEcholocation": true,
+        "Echolocation": "Allows for navigation and communication",
+        "SocialBehavior": "Has complex social hierarchies",
+        "IsPlayfulBehavior": false,
+        "PlayfulBehavior": "Dolphin doesn't like playing with dolphins. ",
+        "LargeBrain": 23,
+        "IsSwimmingAtHighSpeed": true,
+        "SwimmingAtHightSpeed": "Can travel long distances in search of food",
+        "Species": 3,
+        "Name": "Dambo",
+        "Age": 3
+      }
+    ],
+    "BengalTigers": [
+      {
+        "IsApexPredator": false,
+        "ApexPredator": "Bengal tiger doesn't show it's apex predator features",
+        "LargeSize": 4.0,
+        "CamouflageFur": "Brawn fur",
+        "IsPowerfulLegs": true,
+        "PowerfulLegs": "Can run at speeds up to 65 kilometers per hour",
+        "IsSolitaryBehavior": true,
+        "SolitaryBehavior": "Can travel long distances alone in search of prey",
+        "Species": 4,
+        "Name": "Alex",
+        "Age": 3
+      }
+    ]
+  }
+}
