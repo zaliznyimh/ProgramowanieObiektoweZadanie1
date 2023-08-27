@@ -49,7 +49,6 @@ D:\Programowanie Obiektowe Gotowe Zadania\ProgramowanieObiektoweZadanie 1\Sample
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
-D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
 D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie1\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs

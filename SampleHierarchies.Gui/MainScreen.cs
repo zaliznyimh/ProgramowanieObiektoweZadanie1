@@ -145,8 +145,15 @@ public sealed class MainScreen : Screen
                     string? newValue = Console.ReadLine();
 
                     if (newValue == "Red" | newValue == "Blue" | newValue == "Green" | newValue == "Cyan" | newValue == "Magenta") {
-                        if (newValue is not null) { jsonObject[screenName] = JToken.FromObject(newValue); }
-                        else { Console.WriteLine("Your property is incorrect. "); }
+                        
+                        if (newValue is not null)
+                        { 
+                            jsonObject[screenName] = JToken.FromObject(newValue);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Your property is incorrect. ");
+                        }
 
 
                         File.WriteAllText(filePath, jsonObject.ToString());

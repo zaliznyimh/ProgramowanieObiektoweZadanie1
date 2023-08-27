@@ -3,6 +3,7 @@ using SampleHierarchies.Data;
 using SampleHierarchies.Interfaces.Data;
 using SampleHierarchies.Interfaces.Services;
 using System.Diagnostics;
+using System.Text.Json.Nodes;
 
 namespace SampleHierarchies.Services;
 
@@ -87,10 +88,10 @@ public class SettingsService : ISettingsService
             if (File.Exists(FilePath))
             {
                 string json = File.ReadAllText(FilePath);
-                dynamic? jsonObject = JsonConvert.DeserializeObject(json);
-                if (jsonObject is not null && jsonObject?[screenName] is not null)
+                dynamic? jsonValue = JsonConvert.DeserializeObject(json);
+                if (jsonValue is not null && jsonValue?[screenName] is not null)
                 {
-                    return jsonObject[screenName].ToObject<T>();
+                    return jsonValue[screenName].ToObject<T>();
                 }
             }
         }

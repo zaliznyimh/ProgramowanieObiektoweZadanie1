@@ -13,7 +13,7 @@ public interface ISettingsService
     /// <returns></returns>
     ISettings? Read(string jsonPath);
 
-    /// <summary>
+    /// <summary>dla
     /// Write settings.
     /// </summary>
     /// <param name="settings">Settings to written</param>

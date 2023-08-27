@@ -19,6 +19,7 @@ public interface IWolf : IMammal
     /// </summary>
     public bool IsPackHunting { get; set; }
     public string PackHunting { get; set; }
+
     /// <summary>
     /// Property that describes how wolf are communicating
     /// </summary>

@@ -41,7 +41,7 @@ public class BengalTiger : MammalBase, IBengalTiger
     {
         Console.WriteLine($"Hi, My name is {Name} and I'm {Age} years old." +
                           $"ApexPredator: {ApexPredator}, LargeSize: {LargeSize}, Camouflage fur: {CamouflageFur}, Powerful legs: {PowerfulLegs}," +
-                          $" Solitary behavior: {SolitaryBehavior}");
+                          $"Solitary behavior: {SolitaryBehavior}");
     }
 
     public override void Copy(IAnimal animal)
@@ -61,12 +61,6 @@ public class BengalTiger : MammalBase, IBengalTiger
     }
     
     #endregion // Public Methods
-
-    #region Private Methods
-
-
-    #endregion // Private Methods 
-
 
     #region Ctor
     

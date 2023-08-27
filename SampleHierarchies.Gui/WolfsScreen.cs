@@ -23,7 +23,8 @@ public class WolfsScreen : Screen
     /// Ctor.
     /// </summary>
     /// <param name="dataService">Data service reference</param>
-    public WolfsScreen(IDataService dataService, ISettingsService settingsService)
+    public WolfsScreen(IDataService dataService,
+                       ISettingsService settingsService)
     {
         _dataService = dataService;
         _settingsService = settingsService;
